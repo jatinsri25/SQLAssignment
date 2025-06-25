@@ -174,23 +174,8 @@ PORT=5001
 1. Update API base URL to production backend URL
 2. Deploy using the platform's CLI or dashboard
 
-## Bonus Features Implemented
 
-- ✅ Task deletion functionality
-- ✅ Modern, responsive design with gradients and animations
-- ✅ Enhanced user experience with loading states
-- ✅ Clean and intuitive interface
-- ✅ Error handling and success messages
-- ✅ Protected routes with authentication
-- ✅ Smooth hover effects and transitions
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ## License
 
