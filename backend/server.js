@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5001;
 const JWT_SECRET = process.env.JWT_SECRET || 'your-secret-key';
 
 const corsOptions = {
-    origin: ['http://localhost:3000', 'http://localhost:3003', 'http://localhost:3001'],
+    origin: ['http://localhost:3000', 'http://localhost:3003', 'http://localhost:3001', 'http://localhost:3004'],
     credentials: true,
     optionsSuccessStatus: 200
 };
